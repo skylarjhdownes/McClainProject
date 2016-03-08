@@ -27,6 +27,7 @@ return [
     */
 
     'default' => env('DB_CONNECTION', 'mysql'),
+    //Looks like we're already using the mysql driver
 
     /*
     |--------------------------------------------------------------------------
